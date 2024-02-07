@@ -4,7 +4,7 @@ body {
   align-items: flex-start;
   min-height: 100vh;
   margin: 0;
-  background-image: url("happyPeople.jpg");
+  background-image: url("../images/happyPeople.jpg");
   background-size: cover;
   background-position: top;
 }
